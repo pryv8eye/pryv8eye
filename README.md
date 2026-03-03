@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Randy
 
 
-
-## 🔧 Tech Stack
-- Python | Flask | Git | VS Code
-
 ## 📌 Featured Projects
 - **Zune Restoration Feeds** – Flask endpoints recreating Zune background rotation feeds  
 
