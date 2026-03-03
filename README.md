@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Randy
 
-**Python Developer in training**  
-Focused on Flask apps, automation, and digital restoration projects.
+
 
 ## 🔧 Tech Stack
 - Python | Flask | Git | VS Code
 
 ## 📌 Featured Projects
 - **Zune Restoration Feeds** – Flask endpoints recreating Zune background rotation feeds  
-- **Python Possibilities Journal** – Mapping course concepts to real-world projects  
 - **Automation Scripts** – Practical utilities for clean workflows
 
 ## 📈 Goals
