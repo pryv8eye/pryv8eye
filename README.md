@@ -7,11 +7,10 @@
 
 ## 📌 Featured Projects
 - **Zune Restoration Feeds** – Flask endpoints recreating Zune background rotation feeds  
-- **Automation Scripts** – Practical utilities for clean workflows
 
 ## 📈 Goals
 - Microsoft Python Certificate  
-- Portfolio blending technical skill + restoration projects
+
 
 ---
 
