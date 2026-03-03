@@ -1,29 +1,19 @@
-# Hi, I'm Randy 👋
+# 👋 Hi, I'm Randy
 
-**Building Python + Flask apps | Digital restoration enthusiast | Sharing projects for a new career path**
+**Python Developer in training**  
+Focused on Flask apps, automation, and digital restoration projects.
 
----
+## 🔧 Tech Stack
+- Python | Flask | Git | VS Code
 
-## 🚀 About Me
-- Currently completing the **Microsoft Python Development Professional Certificate**
-- Focused on **web apps (Flask/Django)** and **automation projects**
-- Passionate about **digital restoration**, including authentic Zune experiences
-- Experienced in troubleshooting Windows, networking, and JSON/Flask feeds
+## 📌 Featured Projects
+- **Zune Restoration Feeds** – Flask endpoints recreating Zune background rotation feeds  
+- **Python Possibilities Journal** – Mapping course concepts to real-world projects  
+- **Automation Scripts** – Practical utilities for clean workflows
 
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, HTML/CSS, JavaScript (beginner)
-- **Frameworks:** Flask, Django (learning), FastAPI (exploring)
-- **Tools:** GitHub, Wireshark, Visual Studio Code
-- **Platforms:** Windows 11, Zune ecosystem restoration
-
----
-
-## 📂 Featured Projects
-- 🎵 **Zune Restoration Feeds** — Flask endpoints for authentic background rotation  
-- ⚙️ **Automation Scripts** — Python utilities for system hygiene and file management  
-- 🌐 **Web Apps** — Flask projects from certificate coursework
+## 📈 Goals
+- Microsoft Python Certificate  
+- Portfolio blending technical skill + restoration projects
 
 ---
 
