@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Randy
 
 📈 Goals  
-* Microsoft Python Certificate
+- Microsoft Python Certificate  
+- Build new Flask project  
+- Share open-source tools
 
 ## 📫 Connect
 - GitHub: [pryv8eye](https://github.com/pryv8eye)
