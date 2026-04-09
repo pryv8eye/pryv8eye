@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Randy
 
 📈 Goals  
-- Microsoft Python Certificate
+* Microsoft Python Certificate
 
 ## 📫 Connect
 - GitHub: [pryv8eye](https://github.com/pryv8eye)
