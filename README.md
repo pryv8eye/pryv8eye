@@ -1,14 +1,7 @@
 # 👋 Hi, I'm Randy
 
 
-## 📌 Featured Projects
-- **Zune Restoration Feeds** – Flask endpoints recreating Zune background rotation feeds  
 
-## 📈 Goals
-- Microsoft Python Certificate  
-
-
----
 
 ## 📫 Connect
 - GitHub: [pryv8eye](https://github.com/pryv8eye)
